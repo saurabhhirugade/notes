@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/The Micro-Frontends Era.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Micro-Frontends Era"
+              "title": "_index"
             }
           }
         ],
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/The Micro-Frontends Era.md",
+                "file": "_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Micro-Frontends Era"
+              "title": "Backlinks for _index"
             }
           },
           {
@@ -141,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/The Micro-Frontends Era.md",
+                "file": "_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Micro-Frontends Era"
+              "title": "Outgoing links from _index"
             }
           },
           {
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/The Micro-Frontends Era.md"
+                "file": "_index.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Micro-Frontends Era"
+              "title": "Outline of _index"
             }
           }
         ]
@@ -193,16 +193,16 @@
   },
   "active": "4f635cd7d9e2453e",
   "lastOpenFiles": [
+    "README.md",
+    "blogs/Inside the colima.md",
     "_index.md",
+    "blogs/The Micro-Frontends Era.md",
     "index.md",
     "thoughts/Internet.md",
     "thoughts",
-    "blogs/Inside the colima.md",
     "mindpalace.jpg.sb-79bd6fdd-w2saCo",
     "mindpalace.jpg",
     "Unconfirmed 429872.crdownload",
-    "blogs/The Micro-Frontends Era.md",
-    "README.md",
     "blogs/colima01.png",
     "blogs/colima02.jpeg",
     "blogs/colima03.jpeg",

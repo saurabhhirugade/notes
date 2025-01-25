@@ -9,6 +9,6 @@ Well I can't create a mind palace like sherlock in my brain but I can create one
 Unlike sherlock, my mind palace is open to everyone -- make yourself home : ) 
 
 
-```poetry
-- SH (Not sherlock holmes) :)
-```
+<p style="text-align:center">
+- SH (Not sherlock holmes)
+</p>
