@@ -40,7 +40,7 @@ And that's when everything started to make sense regarding the issues we faced i
 
 ![Six figures Numbered from 1 to 6.](colima03.jpeg)
 
-						Caution: Migration in progress ⚠️
+					  Caution: Migration in progress ⚠️
 
 
 Story Time !!  I had just been assigned to a new project. And recently, in team some folks had their Intel laptops replaced with new M1 machines. (Yeah, I was also with M1)
