@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "blogs/The Micro-Frontends Era.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Micro-Frontends Era"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "blogs/The Micro-Frontends Era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for The Micro-Frontends Era"
             }
           },
           {
@@ -141,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "blogs/The Micro-Frontends Era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from The Micro-Frontends Era"
             }
           },
           {
@@ -168,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "blogs/The Micro-Frontends Era.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of The Micro-Frontends Era"
             }
           }
         ]
@@ -191,15 +190,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f635cd7d9e2453e",
+  "active": "f43682778f855f24",
   "lastOpenFiles": [
+    "blogs/Inside the colima.md",
+    "README.md",
     "blogs/The Micro-Frontends Era.md",
+    "index.md",
     "blogs/colima01.png",
     "blogs/colima02.jpeg",
     "blogs/colima03.jpeg",
-    "blogs/Inside the colima.md",
-    "index.md",
-    "blogs",
-    "README.md"
+    "blogs"
   ]
 }
