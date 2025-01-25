@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/The Micro-Frontends Era.md",
-                "mode": "source",
+                "file": "blogs/Inside the colima.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Micro-Frontends Era"
+              "title": "Inside the colima"
             }
           },
           {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/The Micro-Frontends Era.md",
+                "file": "blogs/Inside the colima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Micro-Frontends Era"
+              "title": "Backlinks for Inside the colima"
             }
           },
           {
@@ -140,12 +140,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/The Micro-Frontends Era.md",
+                "file": "blogs/Inside the colima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Micro-Frontends Era"
+              "title": "Outgoing links from Inside the colima"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/The Micro-Frontends Era.md"
+                "file": "blogs/Inside the colima.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of The Micro-Frontends Era"
+              "title": "Outline of Inside the colima"
             }
           }
         ]
@@ -192,9 +192,9 @@
   },
   "active": "f43682778f855f24",
   "lastOpenFiles": [
+    "blogs/The Micro-Frontends Era.md",
     "blogs/Inside the colima.md",
     "README.md",
-    "blogs/The Micro-Frontends Era.md",
     "index.md",
     "blogs/colima01.png",
     "blogs/colima02.jpeg",

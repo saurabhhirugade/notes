@@ -1,7 +1,9 @@
 The story started for me with the mail  to explore alternatives to docker desktop and try colima. 
 I never heard of colima before. During the setup process, I became interested in how it works under the hood. And I started with the question “What is colima?”.
+
 <img alt="Stack of three boxes. From top, first is containers, second Linux and third Mac" 
 	style="display: block; margin: 0 auto" width="400px" src="https://raw.githubusercontent.com/saurabhhirugade/notes/refs/heads/main/blogs/colima01.png">
+
 
 So Colima is **Co**ntainers on **Li**nux on **Ma**c. First thought came into mind was why colima and why not **coma** (funny name, isn’t it 😁) i.e. Containers on Mac. Why can’t we run containers directly on macOS?
 
@@ -13,7 +15,9 @@ Lima is an open source project that launches linux VMs. The motivation to create
 
 But wait what exactly is virtualization, and what does it mean to run a VM? Well, Virtualization is basically like renting an apartment (VM) in a building (Host), with isolated resources from total available resources. Our Virtual Machine (VM) receives its own isolated CPU, memory, storage, and network, allowing it to run a different operating system than the host OS.
 
+
 <img alt="Different types of buildings"  style="display: block; margin: 0 auto" src="https://raw.githubusercontent.com/saurabhhirugade/notes/refs/heads/main/blogs/colima02.jpeg">
+
 
 Let’s extend the example of building with the help of the picture above. In the real world, we encounter various types of buildings, just like that, we can have different types of Host Computers.
 
@@ -33,9 +37,11 @@ Lima creates a VM with host architecture by default but you can pass  --arch fl
 
 And that's when everything started to make sense regarding the issues we faced in account during our local setup.
 
+
 ![Six figures Numbered from 1 to 6.](colima03.jpeg)
 
 						Caution: Migration in progress ⚠️
+
 
 Story Time !!  I had just been assigned to a new project. And recently, in team some folks had their Intel laptops replaced with new M1 machines. (Yeah, I was also with M1)
 
@@ -85,7 +91,7 @@ Thank you so much for reading. I hope this article is helpful and not too confus
   
 **References:**
 
-[Lima: Linux Machines](https://lima-vm.io/docs/) 
+[Lima: Linux Machines](https://lima-vm.io/docs/)
 
 [containerd/docs/getting-started.md at main](https://github.com/containerd/containerd/blob/main/docs/getting-started.md) 
 
