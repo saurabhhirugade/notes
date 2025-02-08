@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "blogs/The Micro-Frontends Era.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "The Micro-Frontends Era"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_index.md",
+                "file": "blogs/The Micro-Frontends Era.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _index"
+              "title": "Backlinks for The Micro-Frontends Era"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_index.md",
+                "file": "blogs/The Micro-Frontends Era.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from _index"
+              "title": "Outgoing links from The Micro-Frontends Era"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_index.md"
+                "file": "blogs/The Micro-Frontends Era.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline of The Micro-Frontends Era"
             }
           }
         ]
@@ -159,13 +159,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "4f635cd7d9e2453e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Finance/Pay Commission.md",
     "blogs/The Micro-Frontends Era.md",
+    "Finance",
     "_index.md",
+    "mindpalace.jpg",
     "quotes/Collection of my favourite quotes.md",
     "README.md",
     "quotes",
@@ -174,7 +179,6 @@
     "thoughts/Internet.md",
     "thoughts",
     "mindpalace.jpg.sb-79bd6fdd-w2saCo",
-    "mindpalace.jpg",
     "Unconfirmed 429872.crdownload",
     "blogs/colima01.png",
     "blogs/colima02.jpeg",
