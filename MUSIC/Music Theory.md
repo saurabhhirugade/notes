@@ -1,5 +1,5 @@
 
-**Notes**  
+# Notes  
 Note is the building block of music.
 
 Total notes = 12 (7+5)  

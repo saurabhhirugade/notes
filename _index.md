@@ -2,16 +2,17 @@
 title: Welcome to my Mind Palace !!
 tags:
 ---
-[![Click Here](https://raw.githubusercontent.com/saurabhhirugade/notes/refs/heads/main/mindpalace.jpg)](https://www.youtube.com/watch?v=OWbSvmIKsSA&t=67s )
+[![Click Here](https://raw.githubusercontent.com/saurabhhirugade/notes/refs/heads/main/mindpalace.jpg)](https://www.youtube.com/watch?v=OWbSvmIKsSA&t=77s )
+<p  style="font-size:10px"> Don't click on his face 🤫 </p>
 
+Well well !! Who wasn't a fan of his mind palace technique?  
+After watching the episode, I thought, "I could totally do this!"  But soon enough, I realized… my brain is more like a junk drawer than a super-organized storage system.
 
-Ever watched Sherlock and thought, ‘Yeah, I can totally do that whole Mind Palace thing’? But then I realized… my brain is more like a junk drawer than a super-organized storage system.
+So, I gave up on the idea of becoming the next Sherlock Holmes (sadly) — instead I decided to create my own version of a mind palace in the little corner of internet.
 
-So, I gave up on the idea of becoming the next Sherlock Holmes — until I realized, hey, why not build a digital Mind Palace instead?
+Welcome to my digital mind palace! This place is more of a _digital_ mess of my knowledge and random bits of info. (spoiler alert: I’m not that organized)
 
-Welcome to my digital mess of knowledge and random stuff. 
 Feel free to poke around :)
-
 <p style="text-align:center">
-- SH (Not sherlock holmes)
+<b>- SH</b> <span style="font-size:14px">(Not sherlock holmes...it's me — still on the case "where I left my keys" 😛)</span>
 </p>
