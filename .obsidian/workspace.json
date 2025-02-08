@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BLOGS/Inside the colima/Inside the colima.md",
+                "file": "BLOGS/Inside the colima.md",
                 "mode": "preview",
                 "source": false
               },
@@ -192,14 +192,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c30337245f03dc7c",
+  "active": "3f4de503cc203462",
   "lastOpenFiles": [
     "_index.md",
     "TECHNICAL/CPU Architecture.md",
     "TECHNICAL/Commands.md",
     "TECHNICAL/Data Structures/Resources.md",
     "TECHNICAL/Data Structures/Index.md",
-    "BLOGS/Inside the colima/Inside the colima.md",
+    "BLOGS/Inside the colima.md",
     "BLOGS/Inside the colima/Untitled.md",
     "BLOGS/Inside the colima",
     "TECHNICAL/Data Structures",
@@ -218,9 +218,9 @@
     "thoughts",
     "mindpalace.jpg.sb-79bd6fdd-w2saCo",
     "Unconfirmed 429872.crdownload",
-    "BLOGS/Inside the colima/colima01.png",
-    "BLOGS/Inside the colima/colima02.jpeg",
-    "BLOGS/Inside the colima/colima03.jpeg",
+    "BLOGS/colima01.png",
+    "BLOGS/colima02.jpeg",
+    "BLOGS/colima03.jpeg",
     "BLOGS"
   ]
 }
