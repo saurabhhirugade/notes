@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "obsidian",
+  "accentColor": "#bb9eff",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "AppleGothic",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true
+}
