@@ -2,7 +2,7 @@
 title: Welcome to my Mind Palace !!
 tags:
 ---
-[![Click Here](https://raw.githubusercontent.com/saurabhhirugade/notes/refs/heads/main/mindpalace.jpg)](https://www.youtube.com/watch?v=OWbSvmIKsSA&t=77s )
+<p><a href="https://www.youtube.com/watch?v=OWbSvmIKsSA&amp;t=77s" class="external"><img src="https://raw.githubusercontent.com/saurabhhirugade/notes/refs/heads/main/mindpalace.jpg" alt="SH Mind Palace"></a></p>
 <p  style="font-size:10px"> Don't click on his face 🤫 </p>
 
 Well well !! Who wasn't a fan of his mind palace technique?  
@@ -14,5 +14,5 @@ Welcome to my digital mind palace! This place is more of a _digital_ mess of my 
 
 Feel free to poke around :)
 <p style="text-align:center">
-<b>- SH</b> <span style="font-size:14px">(Not sherlock holmes...it's me — still on the case "where I left my keys" 😛)</span>
+<b style="margin-left:-5px">—  SH</b><br> <span style="font-size:14px">(Not sherlock holmes...it's me — still on the case "where I left my keys" 😛)</span>
 </p>
