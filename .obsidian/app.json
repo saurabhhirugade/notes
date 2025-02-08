@@ -1,3 +1,7 @@
 {
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "vimMode": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./attachments"
 }

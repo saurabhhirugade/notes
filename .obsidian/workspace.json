@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHNICAL/Data Structures/Topics.md",
-                "mode": "preview",
+                "file": "TECHNICAL/Commands.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topics"
+              "title": "Commands"
             }
           }
         ],
@@ -194,25 +194,27 @@
   },
   "active": "c30337245f03dc7c",
   "lastOpenFiles": [
+    "TECHNICAL/CPU Architecture.md",
+    "TECHNICAL/Data Structures/Topics.md",
+    "TECHNICAL/Data Structures/Resources.md",
+    "MUSIC/Music Theory.md",
+    "BLOGS/The Micro-Frontends Era.md",
     "BLOGS/Inside the colima.md",
+    "_index.md",
+    "MUSIC",
     "blogs_old/colima03.jpeg",
     "blogs_old/colima02.jpeg",
     "blogs_old/colima01.png",
     "blogs_old/The Micro-Frontends Era.md",
     "blogs_old/Inside the colima.md",
     "blogs_old",
-    "_index.md",
-    "TECHNICAL/CPU Architecture.md",
     "TECHNICAL/Commands.md",
-    "TECHNICAL/Data Structures/Resources.md",
-    "TECHNICAL/Data Structures/Topics.md",
     "BLOGS/Inside the colima/Untitled.md",
     "BLOGS/Inside the colima",
     "TECHNICAL/Data Structures",
     "TECHNICAL",
     "Skills.md",
     "Untitled.canvas",
-    "BLOGS/The Micro-Frontends Era.md",
     "Finance/Pay Commission.md",
     "Finance",
     "mindpalace.jpg",
@@ -226,7 +228,6 @@
     "Unconfirmed 429872.crdownload",
     "BLOGS/colima01.png",
     "BLOGS/colima02.jpeg",
-    "BLOGS/colima03.jpeg",
-    "BLOGS"
+    "BLOGS/colima03.jpeg"
   ]
 }
