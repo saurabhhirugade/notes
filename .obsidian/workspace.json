@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "BLOGS/Inside the colima/Inside the colima.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Inside the colima"
             }
           }
         ],
@@ -194,12 +194,12 @@
   },
   "active": "c30337245f03dc7c",
   "lastOpenFiles": [
+    "_index.md",
     "TECHNICAL/CPU Architecture.md",
     "TECHNICAL/Commands.md",
     "TECHNICAL/Data Structures/Resources.md",
     "TECHNICAL/Data Structures/Index.md",
-    "_index.md",
-    "BLOGS/Inside the colima/_index.md",
+    "BLOGS/Inside the colima/Inside the colima.md",
     "BLOGS/Inside the colima/Untitled.md",
     "BLOGS/Inside the colima",
     "TECHNICAL/Data Structures",
