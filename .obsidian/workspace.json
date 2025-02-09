@@ -11,10 +11,14 @@
             "id": "982da1032343f259",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TECHNICAL/Design Patterns/SOLID design principles.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SOLID design principles"
             }
           }
         ]
@@ -161,6 +165,7 @@
   },
   "active": "982da1032343f259",
   "lastOpenFiles": [
+    "TECHNICAL/Design Patterns/Design Patterns.md",
     "_index.md",
     "TECHNICAL/Design Patterns/Singleton.md",
     "MUSIC/Music Theory.md",
@@ -171,7 +176,6 @@
     "TECHNICAL/Design Patterns/Single Responsibility Principle.md",
     "TECHNICAL/Data Structures/Resources.md",
     "TECHNICAL/Data Structures/Topics.md",
-    "TECHNICAL/Design Patterns/Design Patterns.md",
     "TECHNICAL/OOP",
     "TECHNICAL/Design Patterns",
     "BLOGS/The Micro-Frontends Era.md",

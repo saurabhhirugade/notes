@@ -16,7 +16,7 @@ Examples:
 4. Builder
 5. Prototype
 
-# Structural Patterns
+## Structural Patterns
 
 1. Adapter
 2. Bridge
@@ -26,7 +26,7 @@ Examples:
 6. Flyweight
 7. Proxy
 
-# Behavioral  Patterns
+## Behavioral  Patterns
 
 1. Chain of Responsibility
 2. Command
