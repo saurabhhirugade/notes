@@ -1,0 +1,1 @@
+**Purpose:** A class should have only **one reason to change**. In other words, a class should have only one well-defined job or responsibility within the system.
