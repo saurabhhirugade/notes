@@ -1,4 +1,4 @@
-# Deep Blue vs Kasparov - [The Day the computer won](https://youtu.be/KF6sLCeBj0s)
+### Deep Blue vs Kasparov - [The Day the computer won](https://youtu.be/NJarxpYyoFI)
 
 
 [The Fascinating Programming of a Chess Engine](https://youtu.be/w4FFX_otR-4)
