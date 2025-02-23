@@ -1,6 +1,3 @@
-x86 vs arm
-
-Colima internal working
 
 Colima -> Lima -> containerd -> container
 

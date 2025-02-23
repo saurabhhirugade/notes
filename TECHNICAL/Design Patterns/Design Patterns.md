@@ -43,3 +43,5 @@ Examples:
 
 - https://refactoring.guru/design-patterns
 - https://www.patterns.dev/
+- https://devansh233.gitbook.io/design-patterns-and-principles
+- https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i
