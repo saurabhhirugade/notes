@@ -3,7 +3,6 @@ title: Welcome to my Mind Palace !!
 tags:
 ---
 <p><a href="https://www.youtube.com/watch?v=OWbSvmIKsSA&amp;t=77s" class="external"><img src="https://raw.githubusercontent.com/saurabhhirugade/notes/refs/heads/main/mindpalace.jpg" alt="SH Mind Palace"></a></p>
-<p  style="font-size:10px"> Don't click on his face 🤫 </p>
 
 Well well !! Who wasn't a fan of his mind palace technique?  
 After watching the episode, I thought, "I could totally do this!"  But soon enough, I realized… my brain is more like a junk drawer than a super-organized storage system.

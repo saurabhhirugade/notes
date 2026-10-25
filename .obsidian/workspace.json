@@ -103,12 +103,14 @@
             "id": "89d1585b1dc19b77",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "mindpalace.jpg"
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "mindpalace"
+              "icon": "lucide-file",
+              "title": "_index"
             }
           }
         ],
@@ -259,8 +261,8 @@
   },
   "active": "89d1585b1dc19b77",
   "lastOpenFiles": [
-    "_index.md",
     "mindpalace.jpg",
+    "_index.md",
     "TECHNICAL/Design Patterns/Design Patterns.md",
     "MUSIC/Music Theory.md",
     "MUSIC/Tere Bina Sargam.md",
