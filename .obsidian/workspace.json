@@ -103,14 +103,12 @@
             "id": "89d1585b1dc19b77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "MUSIC/Music Theory.md",
-                "mode": "source",
-                "source": false
+                "file": "mindpalace.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Music Theory"
+              "icon": "lucide-image",
+              "title": "mindpalace"
             }
           }
         ],
@@ -261,13 +259,15 @@
   },
   "active": "89d1585b1dc19b77",
   "lastOpenFiles": [
-    "MUSIC/Tere Bina Sargam.md",
+    "_index.md",
+    "mindpalace.jpg",
+    "TECHNICAL/Design Patterns/Design Patterns.md",
     "MUSIC/Music Theory.md",
+    "MUSIC/Tere Bina Sargam.md",
     "TECHNICAL/Commands.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 1.base",
-    "_index.md",
     "Chess Engines.md",
     "TECHNICAL/Design Patterns/SOLID.md",
     "TECHNICAL/Design Patterns/Singleton.md",
@@ -276,9 +276,7 @@
     "BLOGS/The Micro-Frontends Era.md",
     "BLOGS/colima01.png",
     "TECHNICAL/Data Structures/Topics.md",
-    "TECHNICAL/Design Patterns/Design Patterns.md",
     "TECHNICAL/Colima Internals.md",
-    "mindpalace.jpg",
     "TECHNICAL/Object Oriented Programming/OOPS starter.md",
     "TECHNICAL/Data Structures/Resources.md",
     "TECHNICAL/Object Oriented Programming/Untitled.md",
